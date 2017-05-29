@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9aa7fdbe_b2f45e88",
+        "filename": "rubygem-rspec.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 314
+      },
+      "writtenOn": "2017-05-29T11:10:03Z",
+      "side": 1,
+      "message": "ws",
+      "range": {
+        "startLine": 26,
+        "startChar": 65,
+        "endLine": 26,
+        "endChar": 67
+      },
+      "revId": "f66fa3b28d58e9b5a437f27a2ab9c40d0aaf4300",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
